@@ -1,0 +1,1 @@
+/Users/dali/Documents/GitHub/rustlings/target/release/rustlings: /Users/dali/Documents/GitHub/rustlings/src/exercise.rs /Users/dali/Documents/GitHub/rustlings/src/main.rs /Users/dali/Documents/GitHub/rustlings/src/run.rs /Users/dali/Documents/GitHub/rustlings/src/ui.rs /Users/dali/Documents/GitHub/rustlings/src/verify.rs

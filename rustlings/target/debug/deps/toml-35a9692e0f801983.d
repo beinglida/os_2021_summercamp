@@ -1,0 +1,12 @@
+/Users/dali/Documents/GitHub/rustlings/target/debug/deps/toml-35a9692e0f801983.rmeta: /Users/dali/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/toml-0.4.10/src/lib.rs /Users/dali/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/toml-0.4.10/src/value.rs /Users/dali/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/toml-0.4.10/src/datetime.rs /Users/dali/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/toml-0.4.10/src/ser.rs /Users/dali/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/toml-0.4.10/src/de.rs /Users/dali/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/toml-0.4.10/src/tokens.rs /Users/dali/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/toml-0.4.10/src/macros.rs /Users/dali/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/toml-0.4.10/src/spanned.rs
+
+/Users/dali/Documents/GitHub/rustlings/target/debug/deps/toml-35a9692e0f801983.d: /Users/dali/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/toml-0.4.10/src/lib.rs /Users/dali/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/toml-0.4.10/src/value.rs /Users/dali/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/toml-0.4.10/src/datetime.rs /Users/dali/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/toml-0.4.10/src/ser.rs /Users/dali/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/toml-0.4.10/src/de.rs /Users/dali/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/toml-0.4.10/src/tokens.rs /Users/dali/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/toml-0.4.10/src/macros.rs /Users/dali/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/toml-0.4.10/src/spanned.rs
+
+/Users/dali/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/toml-0.4.10/src/lib.rs:
+/Users/dali/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/toml-0.4.10/src/value.rs:
+/Users/dali/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/toml-0.4.10/src/datetime.rs:
+/Users/dali/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/toml-0.4.10/src/ser.rs:
+/Users/dali/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/toml-0.4.10/src/de.rs:
+/Users/dali/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/toml-0.4.10/src/tokens.rs:
+/Users/dali/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/toml-0.4.10/src/macros.rs:
+/Users/dali/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/toml-0.4.10/src/spanned.rs:
